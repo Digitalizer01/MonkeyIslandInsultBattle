@@ -2,6 +2,8 @@
 
 **Description**: A recreation of the classic insult battle in Monkey Island made in Unity.
 
+Web version: https://digitalizer01.itch.io/monkey-island-insult-battle
+
 ## Table of Contents
 
 - [Game Overview](#game-overview)
